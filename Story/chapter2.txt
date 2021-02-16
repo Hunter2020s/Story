@@ -1,1 +1,3 @@
 This is Chapter 2.  Thank you for staying committed to the book. Thanks for reading.
+
+This is a change 2
